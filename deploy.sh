@@ -1,3 +1,5 @@
+# biar bisa clone
+
 #!/bin/bash
 echo "🚀 Memulai proses deployment SIPEGAN ke Production VPS..."
 
